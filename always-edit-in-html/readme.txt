@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: HTML edit,always edit in HTML,HTML Tab,HTML Mode,edit post in HTML
 Requires at least: 5.2
 Requires Plugins: classic-editor
-Tested up to: 6.6
+Tested up to: 7.1
 Requires PHP: 7.4
 Stable tag: 2.4.6
 License: GPLv2 or later
